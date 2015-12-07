@@ -84,6 +84,7 @@ int main(){
                 @return nothing, just insert the node.
                 */
                 insertMiddle(n);
+                break;
 
             case 6:
                 /** Delete the head from linked lsit */
@@ -203,6 +204,7 @@ void insertMiddle(int n){
             temp1 = temp->next;
             temp->next = newNode;
             newNode->next =temp1;
+            //temp = newNode;
             break;
         }
         temp = temp->next;
