@@ -43,7 +43,7 @@ int main(){
         cin >> n;
         switch(n){
             case 1:
-                if(rear == MAX){
+                if(rear == MAX-1){
                     cout << "Queue overflow\n";
                     break;
                 }
