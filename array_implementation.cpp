@@ -1,5 +1,5 @@
 /**
-    array_func.cpp
+    array_implementation.cpp
     Purpose: practice data structure implimentation
 
     @author MA Saleh
