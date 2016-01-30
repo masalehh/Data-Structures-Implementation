@@ -1,5 +1,5 @@
 /**
-    binary_search_array.cpp
+    binary_search.cpp
     Purpose: practice data structure implimentation
 
     @author MA Saleh
