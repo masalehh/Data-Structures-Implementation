@@ -96,8 +96,8 @@ int main()                                  // main function started
     }
 
 
+}                   //end of main
 
-}
 
 
 void enterElementsToArray(int arr[])
